@@ -50,9 +50,9 @@ const Footer = () => (
             color: "softRed"
           }
         }}
-        href="https://twitter.com/studio_hungry"
+        href="https://github.com/uvacoder"
       >
-        @studio_hungry
+        uvacoder
       </a>
     </p>
     <p
